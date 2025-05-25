@@ -20,7 +20,7 @@
 
 1. Clone repository này:
 ```
-git clone https://github.com/yourusername/house_price_demo.git
+git clone https://github.com/NamJore04/midterm_house_price_demo.git
 cd house_price_demo
 ```
 
